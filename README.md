@@ -5,7 +5,7 @@ aplicaciones que usamos en Mikroways.
 La forma de instalar estos dotfiles es tan simple como ejecutar:
 
 ```bash
-git clone https://github.com/Mikroways/dotfiles.git ~/.dotfiles-mw
+git clone https://github.com/Mikroways/dotfiles.git ~/.dotfiles
 ~/.dotfiles/scripts/install
 ```
 

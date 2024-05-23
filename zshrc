@@ -12,3 +12,4 @@ export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 source <(helm completion bash)
+export PATH="/opt/homebrew/opt/gnu-getopt/bin:$PATH"

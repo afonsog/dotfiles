@@ -15,4 +15,4 @@ complete -C '/usr/local/bin/aws_completer' aws
 alias k=kubectl
 source <(kubectl completion zsh)
 
-source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme
+source $(brew --prefix)/opt/powerlevel10k/share/powerlevel10k/powerlevel10k.zsh-theme
